@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.7"/>
+	<classpathentry kind="lib" path="/home/me/Mylib/Java/mysql-connector-java-5.1.20/mysql-connector-java-5.1.20-bin.jar"/>
+	<classpathentry kind="lib" path="/home/me/Mylib/Java/poi-3.8/poi-3.8-20120326.jar"/>
+	<classpathentry kind="lib" path="/home/me/Mylib/Java/poi-3.8/poi-examples-3.8-20120326.jar"/>
+	<classpathentry kind="lib" path="/home/me/Mylib/Java/poi-3.8/poi-excelant-3.8-20120326.jar"/>
+	<classpathentry kind="lib" path="/home/me/Mylib/Java/poi-3.8/poi-ooxml-3.8-20120326.jar"/>
+	<classpathentry kind="lib" path="/home/me/Mylib/Java/poi-3.8/poi-ooxml-schemas-3.8-20120326.jar"/>
+	<classpathentry kind="lib" path="/home/me/Mylib/Java/poi-3.8/poi-scratchpad-3.8-20120326.jar"/>
+	<classpathentry kind="lib" path="/home/me/Mylib/Java/poi-3.8/xmlbeans-2.3.0.jar"/>
+	<classpathentry kind="lib" path="/home/me/Mylib/Java/poi-3.8/dom4j-1.6.1.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
